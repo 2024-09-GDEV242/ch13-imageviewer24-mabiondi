@@ -1,7 +1,7 @@
 import java.awt.Color;
 
 /**
- * An image filter to remove color from an image.
+ * An image filter to show only the red channel in an image.
  * 
  * @author Michael Kölling and David J. Barnes.
  * @version 1.0
