@@ -9,7 +9,7 @@ import java.awt.Color;
 public class GreenTintFilter extends Filter
 {
     /**
-     * Constructor for objects of class RedChannelFilter.
+     * Constructor for objects of class GreenTintFilter.
      * @param name The name of the filter.
      */
     public GreenTintFilter(String name)
