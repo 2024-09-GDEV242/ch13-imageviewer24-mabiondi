@@ -3,7 +3,7 @@ import java.awt.Color;
 /**
  * An image filter to show only the red channel in an image.
  * 
- * @author Michael Kölling and David J. Barnes.
+ * @author Michael Biondi
  * @version 1.0
  */
 public class RedChannelFilter extends Filter
